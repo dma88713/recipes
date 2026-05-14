@@ -2,7 +2,7 @@
 
 ## Ingredients
 * avocadp
-* lemom
+* lime
 * salt
 
 ## Instructions
