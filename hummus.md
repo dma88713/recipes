@@ -4,7 +4,7 @@
 ##Ingredients
 
 * Chickpeas
-* Sesame Seeds
+* Sesame Seeds OR Peanut butter
 * Lemon
 * Garlic
 
