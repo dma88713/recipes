@@ -4,6 +4,7 @@
 ##Ingredients
 
 * Chickpeas
+* Sesame Seeds
 * Lemon
 * Garlic
 
