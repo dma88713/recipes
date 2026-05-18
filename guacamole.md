@@ -1,8 +1,11 @@
 # Guacamole
 
 ## Ingredients
-* avocadp
+* avocado
 * lime
 * salt
 
 ## Instructions
+
+* Cut the avocado
+
